@@ -8,6 +8,7 @@ OpenTwitchPlays is an utility to create interactive livestreams where users can 
 Features:
 =============
 * Quickly bind chat commands to key strokes and save your settings
+* Supports multiple keystrokes for commands (start9, right3 and so on)
 * Fire up your favorite IRC client, connect to your twitch chat and select your chat log on OpenTwitchPlays and you're ready to stream.
 * Set up an autosave hotkey that will fire periodically for emulator savestates
 * Send keystrokes to minimized windows that support them by activating the PostMessage mode.
